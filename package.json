@@ -1,7 +1,7 @@
 {
   "name": "homebridge-rainmachine",
   "version": "0.0.1",
-  "description": "A homebridge adapter for using RainMachine sprinkler controller with Apple's Homekit",
+  "description": "A homebridge adapter for using RainMachine sprinkler controller with Apple's Homekit. This package is in development and does not yet function.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
